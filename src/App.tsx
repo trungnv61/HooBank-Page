@@ -1,4 +1,19 @@
 import styles from "./style/style";
+import {
+    Billing,
+    Business,
+    Button,
+    CardDetail,
+    Client,
+    CTA,
+    FeedbackCard,
+    Footer,
+    GetStarted,
+    Hero,
+    Navbar,
+    Stats,
+    Testimonials,
+} from "./components";
 
 const App = () => {
     return (
